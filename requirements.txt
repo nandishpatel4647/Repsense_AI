@@ -2,7 +2,7 @@
 # MediaPipe removed; replaced with Ultralytics YOLOv8-pose
 
 streamlit>=1.32.0
-opencv-python>=4.9.0
+opencv-python-headless>=4.9.0
 ultralytics>=8.0.0
 numpy>=1.24.0
 plotly>=5.18.0
